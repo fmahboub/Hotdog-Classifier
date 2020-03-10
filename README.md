@@ -4,6 +4,6 @@ Utilize CNNs and transfer learning to solve simple image recognition problem: id
 
 This problem's purpose is to build a convolutional neural network to classify images as hot dogs or not-hot dogs. This is the same problem as seen in the HBO TV show "Silicon Valley" (https://www.youtube.com/watch?v=pqTntG1RXSY). We'll be using the dataset put together by a user on Kaggle (https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog) which contains 498 training images and 500 test images.
 
-Problem originates from Brian Keng's class RSM8521HS at Rotman School of Management
+Problem originates from Brian Keng's class RSM8521HS at The Rotman School of Management
 
 
